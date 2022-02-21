@@ -4,6 +4,7 @@
 	<artifactId>Sudoku-Java-OR-Tools</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>Sudoku Java OR-Tools</description>
+	<name>Sudoku Java OR-Tools</name>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/com.google.ortools/ortools-java -->
 		<dependency>
